@@ -6,7 +6,7 @@ A machine learning project predicting loan default risk based on borrower demogr
 Financial institutions want to reduce loan defaults. This model helps evaluate applicants’ risk and supports data-driven lending decisions.
 
 ##  Dataset
-- **Source:** Synthetic data (educational purposes)
+- **Source:** Synthetic data 
 - **Key Features:** Age, Income, LoanAmount, CreditScore, DTI ratio, Loan Purpose, Employment Type, etc.
 - **Target Variable:** `LoanStatus` (Approved/Default)
 
